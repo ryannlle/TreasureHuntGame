@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EmptyButtonListener
+comment0.text=\n\n\ \ |-----------------------------------------------------------|\n\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ EmptyButtonListener\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\n\n\ \ |-----------------------------------------------------------|\n\n\ \ |\ \ \ \ \ \ Responsibilities\ \ \ \ \ \ \ \ \ |\ \ \ Collaborating\ Classes\ \ \ |\n\n\ \ |-------------------------------+---------------------------|\n\n\ \ |\ \ \ Monitors\ when\ the\ empty\ \ \ \ \ |\ \ \ \ \ TreasureGame\ \ \ \ \ \ \ \ \ \ |\n\n\ \ |\ \ \ button\ is\ clicked\ and\ how\ \ \ |\ \ \ \ \ EmptyButton\ \ \ \ \ \ \ \ \ \ \ |\n\n\ \ |\ \ \ to\ process\ that\ click\ \ \ \ \ \ \ |\ \ \ \ \ TreasureButton\ \ \ \ \ \ \ \ |\n\n\ \ |\ \ \ depending\ on\ the\ game\ status|\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\n\n\ \ |-------------------------------+---------------------------|\n\n
+comment1.params=button\ game
+comment1.target=EmptyButtonListener(EmptyButton,\ TreasureGame)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

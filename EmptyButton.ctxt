@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=EmptyButton
+comment0.text=\n\n\ \ |-----------------------------------------------------------|\n\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ EmptyButton\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\n\n\ \ |-----------------------------------------------------------|\n\n\ \ |\ \ \ \ \ \ Responsibilities\ \ \ \ \ \ \ \ \ |\ \ \ Collaborating\ Classes\ \ \ |\n\n\ \ |-------------------------------+---------------------------|\n\n\ \ |\ \ Creates\ a\ class\ with\ methods\ |\ \ \ \ \ TreasureGame\ \ \ \ \ \ \ \ \ \ |\n\n\ \ |\ \ for\ an\ empty\ button\ that\ \ \ \ \ |\ \ \ \ \ EmptyButtonListener\ \ \ |\n\n\ \ |\ \ can\ be\ clicked\ on\ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ TreasureButton\ \ \ \ \ \ \ \ |\n\n\ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ |\n\n\ \ |-------------------------------+---------------------------|\n\n
+comment1.params=game
+comment1.target=EmptyButton(TreasureGame)
+comment2.params=
+comment2.target=void\ reveal()
+numComments=3
